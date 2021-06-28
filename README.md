@@ -36,9 +36,6 @@ There were 4 major challenging challenges faced. <br>
 5. Convolution Neural Network <br>
 
 
-## Photos
-<img src="testing/photo_1.PNG" width=500, height=400>  <img src="testing/photo_2.PNG" width=500, height=400>
-<br><br> <img src="testing/photo_4.PNG" width=500, height=400>  <img src="testing/photo_5.PNG" width=500, height=400>
 
 ## Set Up
 
