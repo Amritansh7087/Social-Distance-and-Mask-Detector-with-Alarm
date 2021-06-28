@@ -1,5 +1,3 @@
-# Resister-19
-### A project by Team RESISTER-19 for the HackForCovid Hackathon
 
 ## Title : Social Distancing & Face Mask Detector with Alarm
 
